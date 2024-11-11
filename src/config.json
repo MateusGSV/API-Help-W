@@ -1,0 +1,14 @@
+{
+  "port": "8001",
+  "https": {
+    "key": "../sslcert/server.key",
+    "cert": "../sslcert/server.cert"
+  },
+  "db": {
+    "user": "postgres",
+    "password": "WWZ1oeqfnsdUqZna",
+    "host": "floridly-cool-tayra.data-1.use1.tembo.io",
+    "port": 5432,
+    "database": "postgres"
+  }
+}
